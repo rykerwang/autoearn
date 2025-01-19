@@ -1,0 +1,4 @@
+version: v1
+
+pipeline:
+  cumulative_candle_count: 3

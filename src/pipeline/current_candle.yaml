@@ -1,0 +1,9 @@
+version: v1
+
+pipeline:
+  long_take_profit_burst: 0.5
+  short_take_profit_burst: 0.5
+  long_take_profit: 1
+  short_take_profit: 1
+  long_open: 3
+  short_open: 3

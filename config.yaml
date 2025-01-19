@@ -1,0 +1,22 @@
+version: v1
+
+account:
+  api_key: KEY
+  api_secret_key: SECRET
+  passphrase: PASSPHRASE
+  flag: 1
+
+trade:
+  inst: BTC-USDT
+  balance: 100
+  runtime: 3600
+
+  candle_interval: 1m
+  stop_loss_pct: 10
+  take_profit_pct: 10
+
+
+debug:
+  debug: false
+  
+
